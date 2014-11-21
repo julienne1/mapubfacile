@@ -48,7 +48,7 @@
 				<br />
 
 				<p>
-					<a href="http://www.mapubfacile.com/index.html" target="_blank" title="MaPubFacile">
+					<a href="http://prestashop.mapubfacile.com" target="_blank" title="MaPubFacile">
 						{l s='Enjoy 60%s discount on your campaigns thanks to Prestashop' mod='mapubfacile' sprintf="%"}
 					</a>
 				</p>

@@ -35,7 +35,7 @@ class MaPubFacile extends Module
 	{
 		$this->name = 'mapubfacile';
 		$this->tab = 'advertising_marketing';
-		$this->version = '1.0';
+		$this->version = '1.1';
 		$this->author = 'PrestaShop';
 
 		$this->bootstrap = true;
